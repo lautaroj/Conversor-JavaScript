@@ -1,0 +1,20 @@
+body{
+    font-family: sans-serif;
+    max-width: 280px;
+    margin: 25px auto;
+}
+
+.divisa{
+    display: grid;
+    grid-template-columns: 50% 50%;
+    margin: 15px;
+    background: rgb(63, 159, 223);
+    color: white;
+}
+
+.nombre, .valor{
+    padding: 5px;
+    font-size: 16px;
+    align-self: center;
+    text-align: center;
+}
